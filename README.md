@@ -71,6 +71,21 @@ The project is structured to guide users through every phase of the sentiment an
 - **Machine Learning:** `sklearn`
 - **Utilities:** `colorama`, `tqdm`
 
+Prerequisites
+Before running the project, ensure that the required libraries are installed. You can install them individually using the following commands:
+```bash 
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install plotly
+pip install wordcloud
+pip install nltk
+pip install scikit-learn
+pip install colorama
+pip install tqdm
+
+
 ## Dataset
 The dataset is loaded from `sentimentdataset.csv` and includes columns such as `Text`, `Platform`, `Country`, `Timestamp`, and more. The target column for sentiment is derived using the VADER sentiment analyzer.
 
