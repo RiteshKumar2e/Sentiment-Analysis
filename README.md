@@ -1,4 +1,4 @@
-# Sentiment Analysis 
+# Sentiment Analysis
 
 ## Overview
 Sentiment Analysis is a critical task in Natural Language Processing (NLP) that involves identifying and categorizing opinions expressed in textual data. This project aims to process large amounts of text data, analyze sentiments, and classify them as positive, negative, or neutral. Sentiment analysis is widely used in various domains such as social media monitoring, customer feedback analysis, and product reviews to gain actionable insights.
